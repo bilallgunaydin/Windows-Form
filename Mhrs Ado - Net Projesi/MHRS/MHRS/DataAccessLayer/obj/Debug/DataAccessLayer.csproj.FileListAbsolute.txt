@@ -1,0 +1,14 @@
+C:\Users\Bilall\Desktop\Yeni klasör\MHRS\MHRS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Bilall\Desktop\Yeni klasör\MHRS\MHRS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Bilall\Desktop\Yeni klasör\MHRS\MHRS\DataAccessLayer\bin\Debug\Entities.dll
+C:\Users\Bilall\Desktop\Yeni klasör\MHRS\MHRS\DataAccessLayer\bin\Debug\Entities.pdb
+C:\Users\Bilall\Desktop\Yeni klasör\MHRS\MHRS\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Bilall\Desktop\Yeni klasör\MHRS\MHRS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Bilall\Desktop\Yeni klasör\MHRS\MHRS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Bilal\Desktop\yazılım\Yaptığım projeler\Mhrs\Mhrs\MHRS\MHRS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Bilal\Desktop\yazılım\Yaptığım projeler\Mhrs\Mhrs\MHRS\MHRS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Bilal\Desktop\yazılım\Yaptığım projeler\Mhrs\Mhrs\MHRS\MHRS\DataAccessLayer\bin\Debug\Entities.dll
+C:\Users\Bilal\Desktop\yazılım\Yaptığım projeler\Mhrs\Mhrs\MHRS\MHRS\DataAccessLayer\bin\Debug\Entities.pdb
+C:\Users\Bilal\Desktop\yazılım\Yaptığım projeler\Mhrs\Mhrs\MHRS\MHRS\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Desktop\yazılım\Yaptığım projeler\Mhrs\Mhrs\MHRS\MHRS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Bilal\Desktop\yazılım\Yaptığım projeler\Mhrs\Mhrs\MHRS\MHRS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
